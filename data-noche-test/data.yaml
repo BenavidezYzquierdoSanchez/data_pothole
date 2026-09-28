@@ -1,0 +1,6 @@
+path: D:\datarun\data-noche.ndjson-test
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Pothole

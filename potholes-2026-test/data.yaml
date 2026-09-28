@@ -1,0 +1,6 @@
+path: D:\datarun\potholes-peru-2026v1-test
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Pothole
