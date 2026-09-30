@@ -7,7 +7,7 @@ Yzquierdo Sanchez, B., & Chambi Aguilar, J. D. (2026). Universidad Peruana Unió
 
 ## Cite
 
-Yzquierdo Sanchez, B. (2026). *potholes país de Perú 2026 - test* (Version V1-test) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23018021
+Yzquierdo Sanchez, B. (2026). *potholes país de Perú 2026 - test* (Version V1-test) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23028710
 
 Also: https://github.com/BenavidezYzquierdoSanchez/data_pothole
 
